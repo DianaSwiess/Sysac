@@ -212,7 +212,7 @@ img{
 }
 .aside4{
     width:100%;
-    height:700px;
+    height:600px;
     background-image:url(../grupo.jpg);
     background-repeat:no-repeat;
     background-size:cover;
@@ -369,7 +369,6 @@ box-sizing:border-box;
     
     }
     .bloque:before {
-    content:"";
     width:100%;
     height:400px;
     }
