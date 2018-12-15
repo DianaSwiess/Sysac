@@ -221,7 +221,7 @@ img{
     justify-content:center;
     align-content:center;
     align-items:center;
-    position: relative;
+    position: absolute;
     display:flex;
     flex-direction: column;
     margin: auto;
